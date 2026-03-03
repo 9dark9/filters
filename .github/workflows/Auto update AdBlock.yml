@@ -21,19 +21,19 @@ jobs:
         uses: carlosperate/download-file-action@v2.0.1
         with: 
           file-url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
-          file-name: 1.txt
+          file-name: CHN:AdRules DNS List.txt
 
       - name: AdGuard DNS filter
         uses: carlosperate/download-file-action@v2.0.1
         with: 
           file-url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
-          file-name: 2.txt
+          file-name: AdGuard DNS filter.txt
 
       - name: CHN:anti-AD
         uses: carlosperate/download-file-action@v2.0.1
         with: 
           file-url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
-          file-name: 3.txt
+          file-name: CHN:anti-AD.txt
           
       - name: AdGuard DNS filter #AdGuard 官方维护的 DNS 规则
         uses: carlosperate/download-file-action@v2.0.1
