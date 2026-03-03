@@ -21,13 +21,13 @@ jobs:
         uses: carlosperate/download-file-action@v2.0.1
         with: 
           file-url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
-          file-name: CHN:AdRules DNS List.txt
+          file-name: CHN:AdRules_DNS_List.txt
 
       - name: AdGuard DNS filter
         uses: carlosperate/download-file-action@v2.0.1
         with: 
           file-url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
-          file-name: AdGuard DNS filter.txt
+          file-name: AdGuard_DNS_filter.txt
 
       - name: CHN:anti-AD
         uses: carlosperate/download-file-action@v2.0.1
@@ -51,13 +51,13 @@ jobs:
         uses: carlosperate/download-file-action@v2.0.1
         with: 
           file-url: https://gh-proxy.com/https://raw.githubusercontent.com/jianboy/github-host/master/hosts
-          file-name: github hosts.txt
+          file-name: github_hosts.txt
 
       - name: ineo6 hosts #GitHub规则
         uses: carlosperate/download-file-action@v2.0.1
         with: 
           file-url: https://gh-proxy.com/https://raw.githubusercontent.com/ineo6/hosts/master/next-hosts
-          file-name: ineo6 hosts.txt
+          file-name: ineo6_hosts.txt
 
       - name: DNS #afwfv DD-AD DNS
         uses: carlosperate/download-file-action@v2.0.1
