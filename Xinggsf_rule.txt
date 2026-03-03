@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: 乘风 广告过滤规则
-! Version: 202404182
+! Version: 202509081
 ! Expires: 2 days
 ! Homepage: https://github.com/xinggsf/Adblock-Plus-Rule/issues
 
@@ -8,14 +8,9 @@
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
 ||cpro.$domain=~baidu.com
 ada.baidu.com
-cstm.baidu.com
 ||dup.baidustatic.com/
 ||ubmcmm.baidustatic.com/
 ||adscdn.baidu.com/
-||als.baidu.com/dalog/log
-@@||eiv.baidu.com/fcimg
-||eiv.baidu.com/
-||f11.baidu.com/
 kstj.baidu.com
 ||pos.baidu.com/
 ||cbjs.baidu.com/
@@ -26,16 +21,14 @@ kstj.baidu.com
 ||pups.bdimg.com/
 baike.baidu.com##.after-content,#adLayerSideWrap
 baike.baidu.com##.squareAni.square.super-layer-promote
-||baike.baidu.com/api/wikiad/
+||baike.baidu.com/api/wikiad/$xhr
+||baike.baidu.com/*/directad?$xhr
+||baike.baidu.com/lemma/api/guesslike?$xhr
 fanyi.baidu.com##div.banner-wrap
 
 ||s1.bdstatic.com/r/www/cache/biz/ecom/common/api/$script
 jingyan.baidu.com##.wgt-cms-banner, .right-fixed-related-wrap, #bottom-ads-container
 ||exp.bdstatic.com/static/exp-pc/common-jquery/widget/popup-$script
-
-v.baidu.com##div[videoadv],a[href^="http://g.youxi.v.baidu."]
-||app.video.baidu.com/adver?
-||v.baidu.com/staticapi/videoAd.json?
 
 ||eduad.baidu.com/
 ||as2.wenku.baidu.com/$subdocument
@@ -48,14 +41,13 @@ pan.baidu.com##.ad-platform-tips, .phone-banner
 zhidao.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,div.wgt-bottom-ask,div.cms-slide.cms-slide-lazy
 ||s1.bdstatic.com/r/www/cache/biz/ecom/common/api/$script
 !--贴吧---
-tiebac.baidu.com,tieba.baidu.com,jump.bdimg.com,jump2.bdimg.com###thread_list>li:not(.j_thread_list):not(.thread_top_list_folder),div[data-rank],div[ad-dom-img],a.j_click_stats
+tiebac.baidu.com,tieba.baidu.com,jump.bdimg.com,jump2.bdimg.com###thread_list>li:not(.j_thread_list):not(.thread_top_list_folder),div[data-rank],div[ad-dom-img],a.j_click_stats,div.custom-ad-container
 @@||tb1.bdstatic.com/??/tb/_/*/ad_$script
 !----------------------通用、广告联盟站点-----------------------
-! 去返利链接
-*$doc,removeparam=/^utm_/
+*$doc,removeparam=/^(sp|ut|fro?)m(_|\b)/
 
 ||ad.
-*/ad.
+*/ad.$image,script,subdocument,media
 @@||xxxy.jnu.edu.cn/_upload/tpl/08/ad/2221/template2221/$script
 */ad/$script,subdocument,media
 */ad_
@@ -80,6 +72,7 @@ tiebac.baidu.com,tieba.baidu.com,jump.bdimg.com,jump2.bdimg.com###thread_list>li
 ||admaster.
 ||market.aliyun.com/
 ||allyes.
+webcert.cnmstl.net
 ||cnzz.
 ||coinhive.com/
 *coinhive.min.js^$script
@@ -91,7 +84,7 @@ dlads.cn
 imasdk.googleapis.com
 ||googlesyndication.com
 ||google-analytics.com
-||irs01.
+irs01.com
 irs03.com
 cm.jd.com
 x.jd.com
@@ -110,13 +103,12 @@ wwads.cn
 *##.adbox
 *##.adtable
 ~news.sina.com.cn##[id^=ad_]
-~crunchyroll.com,~cloud.189.cn##[class|=ad]
-~x.qcheng.cc,~4yydstxt178.com##[id|=ad]
-x.qcheng.cc##+js(set,killAdKiller,noopFunc)
+~4yydstxt178.com##[id|=ad]
 ##[id$="-ad"]
 *##div.a_mu,div.a_h,div.ad_pic,div.wp.a_f,div.wp.a_t,div.a_pb,div.a_pt,div.a_pr,div.a_cn,#ggPar,#preAdContent
 ~google.com,~mediafire.com##.ads
 ~google.com##.adsbygoogle
+www.google.com.*,www.google.*##.VEELad
 ||com/ads
 *_350_330.$image
 */html/click/
@@ -377,6 +369,7 @@ qidian.com###tr-banner,div.banner-wrap,div.focus-img.cf,#j_bodyRecWrap,#j-topHea
 qidian.com##.crumbs-nav.top-op:style(margin: auto!important)
 ||qidian.com/upload/gamesy/20$image
 ||qidian.qpic.cn/qidian_common/$image
+||file.myqcloud.com/yuewen/game/images/$image,domain=qidian.com
 
 zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||static.zongheng.com/*/ad$script
@@ -430,11 +423,12 @@ www.epinv.com###container>#sidebar~*,div.huadong,div.epinv_f
 ||www.epinv.com/wp-content/themes/ep/tu/
 ||firefoxchina.cn/html/$subdocument
 
-||api.huaban.com/ads^$xhr,1p,redirect=noop.txt
-||t1.hoopchina.com.cn/$subdocument
-hupu.com##[class|=sidebar-ad],[id|=div-gpt-ad],[class^=nba-ad],[class^=hp-ad],div[class^=ad],.topPub
-
+bbs.hupu.com###game-center-entrance-container
 ithome.com##.categoryimg,#hd_float,#side_func,#con>#tt5>div,div.related_buy,li.sb_list:nth-child(5)
+ithome.com###tt
+ithome.com##+js(trusted-click-element, span.hb-close-btn)
+|https://img.ithome.com/file/dylive/dylive.min.js^$script
+|https://api.ithome.com/json/hot/dajia.json^$script
 
 ||files.jb51.net^$image
 icws.jb51.net
@@ -461,6 +455,7 @@ pcpop.com##[id^=ad_],div.ad1,div.pcpop_ad1,div#banner9th
 
 v2ex.com##.box:has(.sidebar_compliance)
 ||v2ex.assets.uxengine.net/assets/sidebar/$image
+www.zhihu.com##div[role=list] > .Pc-word:not([tabindex])
 zhihu.com##.Banner
 zhihu.com##.Banner-link
 zhihu.com##.Banner-image
@@ -502,7 +497,8 @@ u8.hujiang.com
 
 ||dm.gucheng.com/
 ||dmjs.gucheng.com/
-www.hao123.com##div#ecom,div.widget-topbanner,A.link.download,#shortcut-box,#shortcut-box~*,div[monkey=yixing],.siye,#leftbannerv2
+www.hao123.com##.siye,#mingzhanresource
+www.hao123.com##.link.download,#ecom,div.widget-topbanner,#shortcut-box,#shortcut-box~*,div[monkey=yixing],#leftbannerv2
 
 iciba.com##div.newpc-entry
 ||cdn.iciba.com/web/co/ci/$image
@@ -1031,7 +1027,7 @@ erebor.douban.com
 */idcgg/
 */if/07top-new
 */ikb/js/t.js|
-*/image/banner/$image
+*/image/banner/$image,domain=~bilinovel.com
 */images/169$object
 */images/ad960.
 */images/bbsad/
