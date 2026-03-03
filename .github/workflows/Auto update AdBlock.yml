@@ -21,7 +21,7 @@ jobs:
         uses: carlosperate/download-file-action@v2.0.1
         with: 
           file-url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
-          file-name: CHN:AdRules_DNS_List.txt
+          file-name: CHN_AdRules_DNS_List.txt
 
       - name: AdGuard DNS filter
         uses: carlosperate/download-file-action@v2.0.1
@@ -33,7 +33,7 @@ jobs:
         uses: carlosperate/download-file-action@v2.0.1
         with: 
           file-url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
-          file-name: CHN:anti-AD.txt
+          file-name: CHN_anti-AD.txt
           
       - name: fetch-github-hosts #GitHub规则
         uses: carlosperate/download-file-action@v2.0.1
