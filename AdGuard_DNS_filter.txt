@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.67.0
+! Version: 1.0.67.2
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-05-21T01:09:26.934Z
+! Last modified: 2026-05-21T05:33:39.925Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -6430,7 +6430,6 @@
 ||banner.tp24.it^
 ||ad.citynews.it^
 ||planner.tiscali.it^
-||adc.indextops.com^
 ||reklammen.spellchecker.lu^
 ||admixer.md^
 ||bn.gogo.mn^
@@ -7022,6 +7021,7 @@ vkcdnservice.appspot.com^
 ||3696a16444.com^
 ||36a7b00c00.com^
 ||36ilrz9efkib6equz.rest^
+||371pqx75ljkp8rn4g9ycyj97p2pr676u39xxi.cfd^
 ||37b3eaaf9a.com^
 ||381a8b362e.com^
 ||382be190f4.com^
@@ -8029,6 +8029,7 @@ vkcdnservice.appspot.com^
 ||acaridtalose.qpon^
 ||acarineleanderhealth.cyou^
 ||acarinespannedcajuela.cyou^
+||acarusglowing.com^
 ||acbogaffmdurj.site^
 ||acbyweuyglhls.website^
 ||accbleaky.qpon^
@@ -8140,6 +8141,7 @@ vkcdnservice.appspot.com^
 ||acnelarick.cfd^
 ||acnesmagmata.shop^
 ||acnnuslac.in^
+||acnodalragee.cyou^
 ||acnodeszebus.cyou^
 ||acnodewaunsdefiner.qpon^
 ||acolhuaoutchidorlops.cfd^
@@ -8933,6 +8935,7 @@ vkcdnservice.appspot.com^
 ||aggressivestruggle.com^
 ||aggrossomeone.cfd^
 ||aggtrazfiwis.in^
+||aghaslovably.com^
 ||aghorimeline.cyou^
 ||agieltrucked.shop^
 ||agile-perspective.pro^
@@ -9987,6 +9990,7 @@ vkcdnservice.appspot.com^
 ||araneaegave.qpon^
 ||araneidboruca.com^
 ||arankfascism.cfd^
+||araoyljo.com^
 ||aravynlbydwiq.site^
 ||arbaalette.cfd^
 ||arbacindawpate.cyou^
@@ -12963,6 +12967,7 @@ vkcdnservice.appspot.com^
 ||bucksawcowards.qpon^
 ||buckumoore.com^
 ||buckweeklyrecording.com^
+||buctqfwodwbt.com^
 ||buddedchaosoreodon.cyou^
 ||buddlesnomial.cfd^
 ||budgeencodeunions.com^
@@ -14835,6 +14840,7 @@ vkcdnservice.appspot.com^
 ||cobaltsanctionyodel.com^
 ||cobbiercurvet.shop^
 ||cobbingstokes.com^
+||cobbledkankrej.qpon^
 ||cobnuthousal.cfd^
 ||cobolgammed.com^
 ||cobsrhymicarmure.qpon^
@@ -21329,6 +21335,7 @@ vkcdnservice.appspot.com^
 ||flymob.com^
 ||flysfycwdazfb.website^
 ||flytechb.com^
+||flyteinfile.qpon^
 ||fmaiyleoxlfbm.online^
 ||fmazwqtzwcfym.website^
 ||fmcnbmrafxjwq.website^
@@ -27966,6 +27973,7 @@ vkcdnservice.appspot.com^
 ||journalpreponderant.com^
 ||journeydirectsubmarine.com^
 ||journeyjp.live^
+||journeylula.com^
 ||jousteevoofooge.net^
 ||joustsbolts.shop^
 ||jouteetu.net^
@@ -28142,6 +28150,7 @@ vkcdnservice.appspot.com^
 ||jsnryngvalfji.site^
 ||jsoggeqfmzzqi.website^
 ||jsotpyjprlcaz.website^
+||jsqykbqsmgtoxc.com^
 ||jsretra.com^
 ||jssckcpqylmzc.site^
 ||jssearch.net^
@@ -34180,6 +34189,7 @@ vkcdnservice.appspot.com^
 ||njufaubstlpar.space^
 ||njujzrcqgdtkz.online^
 ||njunyihalsdvb.site^
+||njusaobixciko.com^
 ||njxcbzvxmmdgk.website^
 ||njxrpzdwiduhs.online^
 ||njyjqkggyxjplm.com^
@@ -39787,6 +39797,7 @@ vkcdnservice.appspot.com^
 ||qquhzi4f3.com^
 ||qquxahyfqinua.site^
 ||qqxganfj.com^
+||qqyvehqdjjgygg.com^
 ||qqznesheignkm.site^
 ||qr-player-new.com^
 ||qramxcijceyve.online^
@@ -40170,6 +40181,7 @@ vkcdnservice.appspot.com^
 ||r-tb.com^
 ||r023m83skv5v.com^
 ||r1rk8fph952ozx68.rest^
+||r5punx29pi72k7q.rest^
 ||r63engo6xw8jtkpze.cfd^
 ||r66net.com^
 ||r66net.net^
@@ -41220,6 +41232,7 @@ vkcdnservice.appspot.com^
 ||rgsoxfrxdalom.website^
 ||rgsqnlcimzekb.space^
 ||rgstispqfesdl.website^
+||rgswxxrpbhvqb.com^
 ||rgtirdhtvixql.online^
 ||rgubidzwowcpf.space^
 ||rgv6pbmrvxo2ii68ylz5.rest^
@@ -42958,6 +42971,7 @@ vkcdnservice.appspot.com^
 ||seetlittleofthe.org^
 ||seetron.net^
 ||seeyifofbr.com^
+||seffwixplkdwt.com^
 ||sefsdvc.com^
 ||sefwpmjrsvewq.website^
 ||seggarsbeachy.shop^
@@ -45694,6 +45708,7 @@ vkcdnservice.appspot.com^
 ||swimautoed.cyou^
 ||swime.online^
 ||swimmerfire.com^
+||swimmertamul.shop^
 ||swimmertinkergrapefruit.com^
 ||swimmingnarcotictravel.com^
 ||swimmingusersabout.com^
@@ -61398,6 +61413,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||tagmanager.andata.ru^
 ||statlytic.net^
 ||ezoicanalytics.com^
 ||dn666andut2j1.cloudfront.net^
@@ -149969,6 +149985,7 @@ dlsdk.appsflyer.com^
 ||bcm.interactives.dk^
 ||bellmetric.net^
 ||bettingstugan.se^
+||bidder-cdn.fra1.cdn.digitaloceanspaces.com^
 ||bilpolicydi.bytelab.dk^
 ||biowebb-data.s3.amazonaws.com^
 ||bitstarz.com^
@@ -162309,6 +162326,7 @@ analytics-*.aasaam.com
 ||categorysort.com^
 ||adcastmarket.com^
 ||ads.aceplanet.co.kr^
+||adv.imadrep.co.kr^
 ||delivery.pryzmads.com^
 ||barohere.xyz^
 ||ad.adwiser.kr^
@@ -162467,7 +162485,6 @@ analytics-*.aasaam.com
 ||adx.turl.co.kr^
 ||adservice.google.co.*
 ||tvetamovie.pstatic.net^
-||adv.imadrep.co.kr^
 ||ads-*.v.ssp.yahoo.com^
 ||safeframe.googlesyndication.com^
 ||adservice.google.com^
