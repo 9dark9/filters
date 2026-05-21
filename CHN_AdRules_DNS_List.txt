@@ -1,9 +1,9 @@
 !
 ! Title: CHN: AdRules DNS List
 ! Description: List for blocking ads in the Chinese region
-! Version: 1.0.35.97
+! Version: 1.0.35.98
 ! Homepage: https://github.com/Cats-Team/AdRules
-! Last modified: 2026-05-21T15:14:52.215Z
+! Last modified: 2026-05-21T20:43:06.919Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -11302,6 +11302,7 @@
 ||afunnygames.com^
 ||afutfjyhihsdy.space^
 ||afuz032.com^
+||afvbfylw.in^
 ||afvektwftmrwe.website^
 ||afwfwhqmvjgmo.online^
 ||afxncq.com^
@@ -11944,6 +11945,7 @@
 ||ajgkdt.eazy.de^
 ||ajgsadialtyzq.store^
 ||ajiag.bullybunches.com^
+||ajifvfpngvdd.com^
 ||ajigzt.lampenwelt.de^
 ||ajjac.club^
 ||ajjfmuwuxn.in^
@@ -12518,6 +12520,7 @@
 ||allodyqueys.qpon^
 ||allogarages.fr^
 ||allomine.fr^
+||alloopunger.cfd^
 ||allosponsor.com^
 ||allotupwardmalicious.com^
 ||alloutdubstep.com^
@@ -18049,6 +18052,7 @@
 ||asianread.com^
 ||asianxhub.com^
 ||asiarchnighs.qpon^
+||asifhclod.com^
 ||asilusdeploys.cyou^
 ||asilusspirket.cfd^
 ||asimarketing.antonsystems.com^
@@ -32798,6 +32802,7 @@
 ||crane.auctic.com^
 ||crane.maggsgroup.com^
 ||cranegarnishextinct.com^
+||cranelyphasers.qpon^
 ||cranialhubbed.com^
 ||craniavestas.com^
 ||craniolgozzan.com^
@@ -43905,6 +43910,7 @@
 ||dr7dsx6u9.com^
 ||dr8pk6ovub897.cloudfront.net^
 ||dra.dragonwash.ro^
+||drab-week.com^
 ||drabimprovement.com^
 ||dracintomtitsuncke.cfd^
 ||draco-artgallery.wz.cz^
@@ -50483,6 +50489,7 @@
 ||f2a31b0912.com^
 ||f2f38069d7.e918781f38.com^
 ||f2f89od5.eulerian.io^
+||f2xmkjnoke4klxw9tz833.rest^
 ||f3.p0y.com^
 ||f308e80f54.com^
 ||f30fpad7.xyz^
@@ -52850,6 +52857,7 @@
 ||flirtyj0y.com^
 ||fliskypizztidyism.cyou^
 ||flitingtincts.cyou^
+||flittedtartago.qpon^
 ||flixdot.com^
 ||flixgvid.flix360.io^
 ||flixprice.com^
@@ -55067,6 +55075,7 @@
 ||g4rm818we13bj8iw4.rest^
 ||g4yk4cyyw.com^
 ||g4z8712756.com^
+||g56nw839oztfqy.cfd^
 ||g594253006.co^
 ||g5hvff5.chatwerk.de^
 ||g64njjhyh.com^
@@ -58339,6 +58348,7 @@
 ||golejddnzqnxb.website^
 ||golfcartlaws.com^
 ||golfdomscots.cfd^
+||golfedphycictussle.qpon^
 ||golfersrow.com^
 ||golinkapp.com^
 ||goljqyqfi.com^
@@ -63058,6 +63068,7 @@
 ||guldenshalidsdossman.qpon^
 ||gulf.moneroocean.stream^
 ||gulioamsivgik.site^
+||gulistyiddish.cfd^
 ||gulliblegrip.com^
 ||gullyending.com^
 ||gulogrumoseacrux.cyou^
@@ -78954,6 +78965,7 @@
 ||lilxvvndclgcs.space^
 ||lilydreamer.com^
 ||lim.fit-und-schlank.com^
+||limacearaunchy.cfd^
 ||limansshastri.cyou^
 ||limbaspangshivs.qpon^
 ||limbecculvers.com^
@@ -85209,6 +85221,7 @@
 ||lockerdomecdn.com^
 ||lockersatelic.cam^
 ||locketsauce.com^
+||lockjawburgh.com^
 ||locksadvancedrelease.com^
 ||locksdrizzle.com^
 ||lockupaccede.com^
@@ -100017,6 +100030,7 @@
 ||nq3ghu0vy2qo.www.ryaktive.com^
 ||nq49x3m8g.com^
 ||nq5gb7y2nzbcl8.cfd^
+||nq5ox4in9yim2mvekgu7yy7u2rmyc.rest^
 ||nqacsh.aalborg24.dk^
 ||nqacsh.boosted.dk^
 ||nqacsh.business24.dk^
@@ -101415,6 +101429,7 @@
 ||odeuwdapukoxz.website^
 ||odewcqwls.com^
 ||odeybruslekoq.website^
+||odfadkfryokt.in^
 ||odfqwsrz.com^
 ||odfuwbdguqkrj.site^
 ||odgmxwepbbfwe.online^
@@ -106921,6 +106936,7 @@
 ||phonetrack.hukumkaikka.in^
 ||phoneupstandingcatholic.com^
 ||phoneysmelvie.cfd^
+||phonghiveinlet.shop^
 ||phonismsirex.cfd^
 ||phonograph2.voxmedia.com^
 ||phonydepth.com^
@@ -107623,6 +107639,7 @@
 ||pjtxmd.epool.ru^
 ||pjvcbvjfrzniy.site^
 ||pjwmzeaojwwyw.site^
+||pjxnjswqkn.com^
 ||pjxsszmrubqjb.site^
 ||pjy55d.com^
 ||pjzae.hypnoschile.com^
@@ -107846,6 +107863,7 @@
 ||platitudesingemulate.com^
 ||platodebruinshowish.cfd^
 ||platooncombinedborrowed.com^
+||platycannoli.qpon^
 ||platypus.cmp.is^
 ||platypus.colly.com^
 ||platypus.tompec.com^
@@ -108183,6 +108201,7 @@
 ||plulv.knixteen.ca^
 ||plumatepullockklans.cfd^
 ||plumbertowards.com^
+||plumbicsenhorodorous.qpon^
 ||plumbicwooler.com^
 ||plume.medicinebynature.blog^
 ||plump-chapter.pro^
@@ -112498,6 +112517,7 @@
 ||qsvsvtdcxiovjfc.com^
 ||qswdme.modnakiecka.pl^
 ||qswqmdejpptbp.space^
+||qswvsopehc.com^
 ||qsydjlvebcnhs.site^
 ||qsynwrllhpeoh.website^
 ||qszftkiylgowv.site^
@@ -116262,6 +116282,7 @@
 ||rodent.kevindendievel.com^
 ||rodent.livelinor.dk^
 ||rodesquad.com^
+||rodgerbyelawstharms.cfd^
 ||rodinalropani.com^
 ||rodletoutwash.cyou^
 ||rodlikemortal.com^
@@ -128576,6 +128597,7 @@
 ||skdtveilhzynd.store^
 ||skedgefrostsauger.cfd^
 ||skeechsarinda.com^
+||skeegragazze.cyou^
 ||skeetads.com^
 ||skeichspinel.cfd^
 ||skelaxin.1.p2l.info^
@@ -128612,6 +128634,7 @@
 ||ski1.skiset.com^
 ||skibidi.acebet.cc^
 ||skibidi.clash.gg^
+||skiddedtripledabbott.cfd^
 ||skidfqh.xyz^
 ||skidwaverorigin.com^
 ||skierjollyobsolete.com^
@@ -145798,6 +145821,7 @@
 ||statisticsaccent.com^
 ||statisticslinks.com^
 ||statisticsnail.com^
+||statisticsoutneutral.com^
 ||statisticsplatform.com^
 ||statistiek.actionlease.nl^
 ||statistiek.bleijerveldjuridischadvies.nl^
@@ -147628,6 +147652,7 @@
 ||stoundinhumed.shop^
 ||stoutjangle.com^
 ||stoutyear.com^
+||stovenbased.qpon^
 ||stoveslodgers.cyou^
 ||stovoori.net^
 ||stowagegentil.com^
@@ -161197,6 +161222,7 @@
 ||tudatosanelok.com^
 ||tudnodkel.blogspot.com^
 ||tudnodkell.info^
+||tueborpercurmargot.cfd^
 ||tuedianclients.qpon^
 ||tueqwaij.com^
 ||tuesdayfetidlit.com^
@@ -162260,6 +162286,7 @@
 ||udc.msn.com^
 ||udc.yahoo.com^
 ||udcazzuy.k9at.co.uk^
+||udclumpy.cfd^
 ||udcm.yahoo.com^
 ||udd1i5.zhihu.com^
 ||uddougqbgbhmg.website^
@@ -163033,6 +163060,7 @@
 ||unacceptabledemand.pro^
 ||unacceptableheavy.pro^
 ||unaccountablepie.com^
+||unacteyl.cfd^
 ||unactkiosk.com^
 ||unagedsarcous.com^
 ||unakinloggin.com^
@@ -165849,6 +165877,7 @@
 ||vebqdbsztulbf.space^
 ||vebv8me7q.com^
 ||vebzeibgeklhs.online^
+||vecjjpptcohjbld.com^
 ||vectaury.io^
 ||vectoine.net^
 ||vector26060.com^
@@ -173121,6 +173150,7 @@
 ||www.feed5baby.com^
 ||www.feed5mown.com^
 ||www.feedstermedia.com^
+||www.feelimprove.bond^
 ||www.fenquavo.com^
 ||www.ferreteriamaracopa.com^
 ||www.fetisch-pornos.cxa.de^
@@ -173279,6 +173309,7 @@
 ||www.hansvanderwerf.nl^
 ||www.happystonezk.pro^
 ||www.happyyong.com^
+||www.hardlyterrible.bond^
 ||www.harm6stop.com^
 ||www.hartnessintl.com^
 ||www.hauloot.com^
@@ -173950,6 +173981,7 @@
 ||www.robkellysurf.com^
 ||www.robm674.plus.com^
 ||www.rock5rice.com^
+||www.romanticdemands.bond^
 ||www.romanticmaui.net^
 ||www.rote8mino.com^
 ||www.roulettebotplus.com^
@@ -178838,6 +178870,7 @@
 ||ynvtepiimtshs.store^
 ||ynvvjirmwalx.com^
 ||ynwqna.mayblue.co.kr^
+||ynxgsfiimr.com^
 ||ynykrhlltoytp.website^
 ||ynyxozjzwnclf.online^
 ||ynzhby.com^
@@ -179916,6 +179949,7 @@
 ||z4tnhm97b.com^
 ||z4ucr946h4gxx5.rest^
 ||z5c1l1enef7y6xzf.cfd^
+||z5cgvvwvwryxyq5j29i4.cfd^
 ||z5x.net^
 ||z5x2v3qi4ex5omyqexwwk93.cfd^
 ||z60ft9y8lj.com^
