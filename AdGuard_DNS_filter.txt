@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.67.15
+! Version: 1.0.67.17
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-05-22T07:26:10.450Z
+! Last modified: 2026-05-22T11:08:43.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -8457,6 +8457,7 @@ vkcdnservice.appspot.com^
 ||adorarama.com^
 ||adoreplans.com^
 ||adornmadeup.com^
+||adornmentpuzzlement.com^
 ||adornmenttaunt.com^
 ||adotic.com^
 ||adotmob.com^
@@ -9524,6 +9525,7 @@ vkcdnservice.appspot.com^
 ||amperepauparava.cfd^
 ||amperescrapped.cyou^
 ||amphidnamable.cyou^
+||amphorabirken.qpon^
 ||ampxchange.com^
 ||amqkuedsdsube.site^
 ||amqmlwdfbm.com^
@@ -10786,6 +10788,7 @@ vkcdnservice.appspot.com^
 ||ayqjnlojvfbqp.site^
 ||ayrequeasy.cyou^
 ||ayscptaf.com^
+||ayugsiwp.com^
 ||ayujucfsngjvl.space^
 ||ayuyublipped.com^
 ||ayyegtlbnqown.space^
@@ -10975,6 +10978,7 @@ vkcdnservice.appspot.com^
 ||bahoekokovidkids.cyou^
 ||bahswl.com^
 ||bahumatenuresyiddish.cfd^
+||bahutshuller.cyou^
 ||baileysfaeculaerth.cyou^
 ||bailiffstrapwanted.com^
 ||bailiffzealous.com^
@@ -15489,6 +15493,7 @@ vkcdnservice.appspot.com^
 ||courtroomestablishedtrauma.com^
 ||courtshipanditla.com^
 ||cousinselizareproach.com^
+||couxiastoved.cfd^
 ||covensarcheolthermos.qpon^
 ||coverdistilltile.com^
 ||coveringstrawberries.com^
@@ -21158,6 +21163,7 @@ vkcdnservice.appspot.com^
 ||fjutxytvnrfxl.site^
 ||fjwdlijdyntkc.store^
 ||fjwhpouzlllfh.space^
+||fjwyfxmhv.com^
 ||fjxiqjmutcgqo.store^
 ||fjyzwineetnxc.website^
 ||fk5lv2qyqoclnk.rest^
@@ -21390,6 +21396,7 @@ vkcdnservice.appspot.com^
 ||fluxthirty.qpon^
 ||fluxyt.xyz^
 ||flyads1.com^
+||flybaneabducts.cyou^
 ||flyingadvert.com^
 ||flyingsquirellsmooch.com^
 ||flylikeaguy.com^
@@ -30115,6 +30122,7 @@ vkcdnservice.appspot.com^
 ||lehmergambits.click^
 ||lehrmanernesunclew.cyou^
 ||lehrreiced.com^
+||leisuboundshotes.qpon^
 ||leisurehazearcher.com^
 ||leisurelyexploit.com^
 ||leivngopjcixg.site^
@@ -30284,6 +30292,7 @@ vkcdnservice.appspot.com^
 ||lhjnegfxaoemq.website^
 ||lhkpvpnnqcebn.fun^
 ||lhlegumin.shop^
+||lhlyjbhy.com^
 ||lhmkjtnhstesl.website^
 ||lhmos.com^
 ||lhnnxsqxs.com^
@@ -31579,6 +31588,7 @@ vkcdnservice.appspot.com^
 ||malmtufted.cyou^
 ||malpaisediface.com^
 ||maltedsanxious.com^
+||maltgentry.qpon^
 ||malthahooye.com^
 ||maltingparceldestin.cfd^
 ||maltobiffing.cyou^
@@ -32309,6 +32319,7 @@ vkcdnservice.appspot.com^
 ||midstegeriaulema.cfd^
 ||mierslkkekrml.website^
 ||miewocoaedlin.online^
+||mifevtuflfrh.com^
 ||miffsnuttilyacquits.qpon^
 ||mifonrcki.in^
 ||mifvigmz.com^
@@ -36304,6 +36315,7 @@ vkcdnservice.appspot.com^
 ||oughtsnine.cyou^
 ||ougnflauhyluf.online^
 ||ouhgvifdh.com^
+||ouhnituc.com^
 ||ouhoxibwjvwuz.site^
 ||ouirlegoascq.com^
 ||ouiwfrtqcwjeu.online^
@@ -37216,6 +37228,7 @@ vkcdnservice.appspot.com^
 ||pectenskend.qpon^
 ||pectosealvia.click^
 ||pectousfossilstae.cfd^
+||pectousmaun.shop^
 ||pedaloflakierchicote.cyou^
 ||pedchats.cfd^
 ||pedetescleanse.com^
@@ -37730,6 +37743,7 @@ vkcdnservice.appspot.com^
 ||piskaday.com^
 ||pisruhakq.in^
 ||pistilsaulete.qpon^
+||pit3wzvqf2xfnw1uml23eknmq.cfd^
 ||pitchedfurs.com^
 ||piteousprinciple.com^
 ||pitfoldmolding.qpon^
@@ -41069,6 +41083,7 @@ vkcdnservice.appspot.com^
 ||repentant-lay.com^
 ||repentant-youth.pro^
 ||repentantsympathy.com^
+||repentcalligraphyjacket.com^
 ||repetitiousfontmonopoly.com^
 ||repinaltho.qpon^
 ||repipequiapojibbed.cyou^
@@ -42064,6 +42079,7 @@ vkcdnservice.appspot.com^
 ||rsxokbqxbelnq.online^
 ||rsxtxfgrowhzm.online^
 ||rsyauqmnzkznc.store^
+||rt4zb65eqjn9pn5.rest^
 ||rt6zo6tmqf7n97giix89h.rest^
 ||rtaaiwotyocku.website^
 ||rtalffozjnwkq.space^
@@ -45232,6 +45248,7 @@ vkcdnservice.appspot.com^
 ||stoletellsgets.com^
 ||stoleunp.qpon^
 ||stomachmallow.com^
+||stomionranket.cyou^
 ||stonerbudgy.qpon^
 ||stoneycorcle.shop^
 ||stonierteddy.com^
@@ -50104,6 +50121,7 @@ vkcdnservice.appspot.com^
 ||verwh.com^
 ||verygoodminigames.com^
 ||verzinoskirter.qpon^
+||vesaniamissusriboso.qpon^
 ||veskitnerved.com^
 ||vesperprayful.qpon^
 ||vespymedia.com^
@@ -50608,9 +50626,11 @@ vkcdnservice.appspot.com^
 ||vocationbunk.com^
 ||vocoidhoglikewreck.cyou^
 ||vocrojjwugeno.website^
+||vocularobtestseat.qpon^
 ||vocumosifxmnk.com^
 ||vodforedidnapless.cyou^
 ||vodobyve.pro^
+||vodoflxujobv.com^
 ||voeqzuuvnwpad.website^
 ||voesinique.cyou^
 ||voetenlaminae.shop^
@@ -52326,6 +52346,7 @@ vkcdnservice.appspot.com^
 ||winisheam.cfd^
 ||winkerpunamunomeus.cfd^
 ||winlessjaipuristormy.cfd^
+||winlyfeis.qpon^
 ||winlyslob.qpon^
 ||winlysuecism.cfd^
 ||winneradequateablebodied.com^
@@ -156404,6 +156425,11 @@ dlsdk.appsflyer.com^
 ||2fhn1qmca.com^
 ||phr3qfcmb.com^
 ||mdlidofju.com^
+||f7qhnenfbo.com^
+||t9x2gu6it3.com^
+||frp8r3le9c.com^
+||quince22.top^
+||a4j126meg3.com^
 ||9613gwqee.com^
 ||pl7ncaj0b.com^
 ||invalidation93.com^
